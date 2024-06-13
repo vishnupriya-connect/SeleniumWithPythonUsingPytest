@@ -1,0 +1,20 @@
+2023-11-29 09:51:58,870 - INFO - Setting up the class with DB connection code
+2023-11-29 09:51:58,870 - INFO - Setting up the test case - browser open
+2023-11-29 09:52:03,534 - INFO - Actual Title of amazon.in : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-11-29 09:52:03,534 - INFO - Expected Title of amazon.in : Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2023-11-29 09:52:03,546 - INFO - test_amazon_title True
+2023-11-29 09:52:03,561 - INFO - Tearing down the test case - browser close
+2023-11-29 09:52:05,782 - INFO - Setting up the test case - browser open
+2023-11-29 09:52:11,145 - INFO - Tearing down the test case - browser close
+2023-11-29 09:52:13,272 - INFO - Tearing down the class with DB connection closure
+2023-11-29 09:52:13,277 - INFO - Setting up the class with DB connection code
+2023-11-29 09:52:13,294 - INFO - Setting up the test case - browser open
+2023-11-29 09:52:18,213 - INFO - Actual Title of snapdeal.com : Shop Online for Men, Women & Kids Clothing, Shoes, Home Decor Items
+2023-11-29 09:52:18,213 - INFO - Expected Title of snapdeal.com : Shop Online for Men, Women & Kids Clothing, Shoes, Home Decor Items
+2023-11-29 09:52:18,221 - INFO - test_snap_deal_title False
+2023-11-29 09:52:18,232 - INFO - Exception: assert 'Shop Online ...ecor Items...' == 'Shop Online ...e Decor Items'
+  - Shop Online for Men, Women & Kids Clothing, Shoes, Home Decor Items
+  + Shop Online for Men, Women & Kids Clothing, Shoes, Home Decor Items...
+  ?                                                                    +++
+2023-11-29 09:52:18,238 - INFO - Tearing down the test case - browser close
+2023-11-29 09:52:20,376 - INFO - Tearing down the class with DB connection closure
